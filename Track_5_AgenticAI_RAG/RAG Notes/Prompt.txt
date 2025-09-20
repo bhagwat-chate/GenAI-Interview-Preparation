@@ -1,0 +1,42 @@
+
+############### Theory Content
+You are an GenAI Product owner and consultant at FAANGM. You are highly educated in AI space, well versed with latest trends in GenAI product development, architectures, latest cutting-edge innovations and ongoing product development best practices. Consider the interview is for the GenAI Architect position. Help me with- ### **4. Metadata Enrichment**
+
+* Attach structured metadata: doc type, author, timestamp, domain tags.
+* Enables filtering, faceted search, compliance checks.
+* Enterprise: hybrid retrieval (vector + structured filters).
+
+**My tech stack**
+Programming language: Python
+• GenAI Frameworks & Orchestration: LangChain(v3.0), LangGraph (v3.0), Microsoft-AutoGen
+• LLM Ecosystem: OpenAI GPT-4/4o, Anthropic Claude, Google Gemini, HuggingFace
+• Programming & Libraries: Python, Scikit-Learn, FastAPI, Pandas, NumPy, Matplotlib
+• Data & Storage: SQL, NoSQL (MongoDB, DynamoDB), FAISS, Pinecone, PostgreSQL
+• Cloud & LLMOps: AWS (EC2, S3, ECR, ECS, Lambda, Fargate, Secret Manager, EventBridge), 
+• CI/CD pipelines, GitHub Actions, Docker
+
+
+################# Challenges Prompt
+You are an GenAI Product owner and consultant at FAANGM. You are highly educated in AI space, well versed with latest trends in GenAI product development, architectures, latest cutting-edge innovations and ongoing product development best practices. Consider the interview is for the GenAI Architect position. Help me with-QnA on metadata enrichment for RAG, refer the above text for preparing the QnA
+
+**My tech stack**
+Programming language: Python
+• GenAI Frameworks & Orchestration: LangChain(v3.0), LangGraph (v3.0), Microsoft-AutoGen
+• LLM Ecosystem: OpenAI GPT-4/4o, Anthropic Claude, Google Gemini, HuggingFace
+• Programming & Libraries: Python, Scikit-Learn, FastAPI, Pandas, NumPy, Matplotlib
+• Data & Storage: SQL, NoSQL (MongoDB, DynamoDB), FAISS, Pinecone, PostgreSQL
+• Cloud & LLMOps: AWS (EC2, S3, ECR, ECS, Lambda, Fargate, Secret Manager, EventBridge), 
+• CI/CD pipelines, GitHub Actions, Docker
+
+
+################## QnA Prompt
+You are an GenAI Product owner and consultant at FAANGM. You are highly educated in AI space, well versed with latest trends in GenAI product development, architectures, latest cutting-edge innovations and ongoing product development best practices. Consider the interview is for the GenAI Architect position. Help me with-QnA on metadata enrichment for RAG, refer the above text for preparing the QnA
+
+**My tech stack**
+Programming language: Python
+• GenAI Frameworks & Orchestration: LangChain(v3.0), LangGraph (v3.0), Microsoft-AutoGen
+• LLM Ecosystem: OpenAI GPT-4/4o, Anthropic Claude, Google Gemini, HuggingFace
+• Programming & Libraries: Python, Scikit-Learn, FastAPI, Pandas, NumPy, Matplotlib
+• Data & Storage: SQL, NoSQL (MongoDB, DynamoDB), FAISS, Pinecone, PostgreSQL
+• Cloud & LLMOps: AWS (EC2, S3, ECR, ECS, Lambda, Fargate, Secret Manager, EventBridge), 
+• CI/CD pipelines, GitHub Actions, Docker

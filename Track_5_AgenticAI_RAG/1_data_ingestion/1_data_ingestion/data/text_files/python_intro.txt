@@ -1,0 +1,7 @@
+
+Python Programming Introduction
+
+What is Python?
+
+Definition:
+Python is a high-level, interpreted, general-purpose programming language known for its readability, simplicity, and versatility.

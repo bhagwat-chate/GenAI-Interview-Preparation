@@ -1,0 +1,5 @@
+{"timestamp": "2025-09-18T09:15:23Z", "event": "page_view", "user_login": "alice_j", "user_id": 101, "page": "/dashboard", "amount": 0}
+{"timestamp": "2025-09-18T09:18:45Z", "event": "purchase", "user_login": "ravi_k", "user_id": 102, "page": "/checkout", "amount": 199.99}
+{"timestamp": "2025-09-18T09:22:11Z", "event": "add_to_cart", "user_login": "megha_p", "user_id": 103, "page": "/products/ssd", "amount": 89.99}
+{"timestamp": "2025-09-18T09:25:32Z", "event": "login", "user_login": "alice_j", "user_id": 101, "page": "/login", "amount": 0}
+{"timestamp": "2025-09-18T09:30:50Z", "event": "subscription", "user_login": "david_m", "user_id": 104, "page": "/subscription", "amount": 29.99}

@@ -1,0 +1,48 @@
+{
+  "company": "TechVision Labs",
+  "department": "Artificial Intelligence",
+  "employees": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "role": "Machine Learning Engineer",
+      "skills": [
+        "Python",
+        "TensorFlow",
+        "Scikit-learn",
+        "Data Engineering"
+      ],
+      "projects": [
+        {
+          "name": "Fraud Detection System",
+          "status": "Completed"
+        },
+        {
+          "name": "Recommendation Engine",
+          "status": "In Progress"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Ravi Kumar",
+      "role": "Generative AI Architect",
+      "skills": [
+        "Python",
+        "LangChain",
+        "AWS",
+        "LLMOps"
+      ],
+      "projects": [
+        {
+          "name": "Document Intelligence RAG",
+          "status": "In Progress"
+        },
+        {
+          "name": "AI Chatbot Platform",
+          "status": "Planned"
+        }
+      ]
+    }
+  ]
+}
