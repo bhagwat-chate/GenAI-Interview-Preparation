@@ -1,3 +1,11 @@
 .idea
 agenticai-rag
 .venv
+venv
+.env
+chroma_db
+*.bin
+
+# Ignore ChromaDB vector store files
+Track_5_AgenticAI_RAG/3_vector_store/chroma_db/
+
