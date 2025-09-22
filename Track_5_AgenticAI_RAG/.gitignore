@@ -8,4 +8,6 @@ chroma_db
 
 # Ignore ChromaDB vector store files
 Track_5_AgenticAI_RAG/3_vector_store/chroma_db/
-
+Track_5_AgenticAI_RAG/3_vector_store/FAISS_index/
+*.faiss
+*.pkl
